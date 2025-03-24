@@ -10,7 +10,7 @@
 ## 🚀 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,react,flutter,js,graphql,tailwind,figma,git,github,postman,postgres,vscode" />
+  <img src="https://skillicons.dev/icons?i=vue,react,flutter,js,graphql,tailwind,figma,git,github,postman,postgres,nodejs,vscode" />
 </p>
 
 ---
