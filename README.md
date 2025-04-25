@@ -15,14 +15,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TsionBantegize&show_icons=true&theme=github_dark&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TsionBantegize&theme=github_dark&hide_border=true" height="170" />
-</p>
-
----
 
 ## 🌍 Let's Connect  
 
