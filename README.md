@@ -10,11 +10,10 @@
 ## 🚀 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,react,flutter,js,graphql,tailwind,figma,git,github,postman,postgres,nodejs,vscode" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,flutter,ts,js,graphql,tailwind,figma,git,github,postman,postgres,nodejs,vscode" />
 </p>
 
 ---
-
 
 ## 🌍 Let's Connect  
 
