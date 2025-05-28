@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Developer | Web & Mobile App Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Vue.js+%7C+React+%7C+Flutter+%7C+GraphQL;Building+Responsive+Web+%26+Mobile+Apps;Passionate+About+Design+%26+User+Experience">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Vue.js+%7C+Nuxt+3+%7C+React+%7C+Flutter+%7C+GraphQL;Building+Responsive+Web+%26+Mobile+Apps;Passionate+About+Design+%26+User+Experience">
 </p>
 
 ---
@@ -27,12 +27,6 @@
   <a href="https://www.linkedin.com/in/tsion-bantegize-007780285">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Vue.js+%7C+React+%7C+Flutter+%7C+GraphQL;Building+Responsive+Web+%26+Mobile+Apps;Passionate+About+Design+%26+User+Experience">
 </p>
 
 ---
