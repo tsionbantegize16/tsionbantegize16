@@ -4,14 +4,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Vue+3+%7C+Nuxt+3+%7C+React+%7C+Flutter+%7C+Spring+Boot;Building+Responsive+Web+%26+Mobile+Apps;Passionate+About+Design+%26+User+Experience">
 </p>
----
 
 ## 💼 About Me
 
 * **Background:** B.Sc. in Software Engineering from Bahir Dar University.
 * **Focus:** Engineering robust web platforms, cross-platform mobile apps, and scalable offline-first financial solutions like **Qershi Link**.
 
----
+
 
 ## 🚀 Tech Stack  
 
@@ -20,7 +19,6 @@
   <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,flutter,ts,js,spring,postgres,prisma,docker,tailwind,figma,git,github,postman,vscode" />
 </p>
 
----
 
 ## 🌍 Let's Connect  
 
@@ -36,6 +34,5 @@
   </a>
 </p>
 
----
 
 ⭐ **"Always learning, always building." Let's create something amazing together!** 🚀
