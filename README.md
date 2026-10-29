@@ -1,16 +1,23 @@
 <h1 align="center">Tsion Bantegize</h1>
-<h3 align="center">Software Engineer | Web & Mobile App Developer</h3>
+<h3 align="center">Software Engineer | Full-Stack Web & Mobile Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Vue+3+%7C+Nuxt+3+%7C+React+%7C+Flutter+%7C+GraphQL;Building+Responsive+Web+%26+Mobile+Apps;Passionate+About+Design+%26+User+Experience">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Vue+3+%7C+Nuxt+3+%7C+React+%7C+Flutter+%7C+Spring+Boot;Building+Responsive+Web+%26+Mobile+Apps;Passionate+About+Design+%26+User+Experience">
 </p>
+
+---
+
+## 💼 About Me
+
+* **Background:** B.Sc. in Software Engineering from Bahir Dar University.
+* **Focus:** Engineering robust web platforms, cross-platform mobile apps, and scalable offline-first financial solutions like **Qershi Link**.
 
 ---
 
 ## 🚀 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,flutter,ts,js,graphql,tailwind,figma,git,github,postman,postgres,nodejs,vscode" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,flutter,ts,js,spring,postgres,prisma,docker,tailwind,figma,git,github,postman,vscode" />
 </p>
 
 ---
