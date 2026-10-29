@@ -8,7 +8,7 @@
 ## 💼 About Me
 
 * **Background:** B.Sc. in Software Engineering from Bahir Dar University.
-* **Focus:** Engineering robust web platforms, cross-platform mobile apps, and scalable offline-first financial solutions like **Qershi Link**.
+* **Focus:** Engineering robust web platforms, cross-platform mobile apps, and scalable offline-first financial solutions.
 
 
 
