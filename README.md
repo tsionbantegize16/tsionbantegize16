@@ -67,6 +67,16 @@
 ---
 
 ## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/tsionbantegize16">
+    <img src="https://img.shields.io/badge/GitHub%20Stats-tsionbantegize16-2ea44f?style=for-the-badge&logo=github" alt="Tsion's GitHub Stats" />
+  </a>
+  <a href="https://github.com/tsionbantegize16">
+    <img src="https://img.shields.io/badge/Top%20Languages-tsionbantegize16-blue?style=for-the-badge&logo=github" alt="Tsion's Top Languages" />
+  </a>
+</div>
+
 ---
 
 <div align="center">
