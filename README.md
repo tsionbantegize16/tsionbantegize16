@@ -39,11 +39,11 @@
 
 ## 🌍 Other Works & Initiatives
 
-- 🌐 **Web Platforms & Admin Dashboards (React & Supabase):** Production-ready web applications and feature-rich administrative dashboards built using React and Supabase, featuring secure role-based auth, real-time database subscriptions, and high-performance SEO implementations.
-- 🌐 **IPv6 Ethiopia:** IPv6 testing, adoption tracking, and technical resource development for Ethiopia.
-- 🛡️ **Secure AI in Africa (SAI²):** Focused on AI security awareness, adversarial AI defense mechanisms, and local capacity building across the continent.
-- 🔒 **ETNERD Security Solutions:** Comprehensive cybersecurity services, secure inquiries, and security news & insights.
-- ⚡ **ETWiC:** Technical initiatives and community-driven engineering contributions.
+- 🌐 **Modern Web Solutions & Control Centers:** Architected production-ready web apps and interactive admin panels utilizing React and Supabase, integrating robust role-based access control, real-time data sync, and optimized search engine indexing.
+- 🌐 **IPv6 Ethiopia:** Spearheaded local testing protocols, deployment metrics tracking, and technical knowledge bases to accelerate IPv6 transition in Ethiopia.
+- 🛡️ **Secure AI in Africa (SAI²):** Promoted continental AI security awareness, engineered adversarial defense strategies, and drove localized technical capacity building.
+- 🔒 **ETNERD Security Solutions:** Delivered targeted cybersecurity services, secure advisory frameworks, and deep-dive technical insights.
+- ⚡ **ETWiC:** Contributed to community-driven engineering initiatives and collaborative technical ecosystems.
 
 ---
 
@@ -87,10 +87,4 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tsion-bantegize-007780285">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <br><br>
-  <p><em>⚡ "Always learning, always building." Let's create something amazing together!</em></p>
-
-</div>
+    <img src="
