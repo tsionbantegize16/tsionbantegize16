@@ -22,17 +22,28 @@
 
 ## 🚀 Featured Enterprise & Production Projects
 
+### 🏢 IIMS — Incubation & Management Platform
+> **SaaS · Full-Stack · AI Integration**  
+> Multi-tenant incubation platform designed for startup applications, mentoring workflows, progress tracking, analytics, and AI-powered guidance.
+
 ### 🏢 BDA ERP
-> Engineered comprehensive enterprise modules covering user rights management, work orders, customers, and contracts. Managed backend business logic, database integration, and frontend workflows to optimize complex corporate operations.
+> Enterprise-grade resource planning system engineered to optimize core corporate workflows, user rights management, work orders, customer relations, and contract lifecycles.
 
 ### 🏢 GATO ERP
-> Developed scalable enterprise resource planning features focusing on finance tracking, inventory management, and sales pipelines, seamlessly bridging robust backend architecture with responsive user interfaces.
-
-### 🌐 Web Platforms & Admin Dashboards *(React & Supabase)*
-> Built production-ready web applications and feature-rich administrative dashboards using **React** and **Supabase**. Implemented secure role-based auth, real-time database subscriptions, and high-performance SEO implementations.
+> Scalable enterprise resource planning solution focused on streamlining financial tracking, inventory management, and complex sales pipelines with high-performance UI integrations.
 
 ### ♻️ GreenLoop
-> Created a sustainable mobile recycling platform combining **Flutter** and Clean Architecture principles with AI-assisted object categorization to power environmental initiatives.
+> Sustainable mobile recycling platform combining **Flutter** and Clean Architecture principles with AI-assisted object categorization to power environmental initiatives.
+
+---
+
+## 🌍 Other Works & Initiatives
+
+- 🌐 **Web Platforms & Admin Dashboards (React & Supabase):** Production-ready web applications and feature-rich administrative dashboards built using React and Supabase, featuring secure role-based auth, real-time database subscriptions, and high-performance SEO implementations.
+- 🌐 **IPv6 Ethiopia:** IPv6 testing, adoption tracking, and technical resource development for Ethiopia.
+- 🛡️ **Secure AI in Africa (SAI²):** Focused on AI security awareness, adversarial AI defense mechanisms, and local capacity building across the continent.
+- 🔒 **ETNERD Security Solutions:** Comprehensive cybersecurity services, secure inquiries, and security news & insights.
+- ⚡ **ETWiC:** Technical initiatives and community-driven engineering contributions.
 
 ---
 
@@ -58,17 +69,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=tsionbantegize16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Tsion's GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsionbantegize16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=tsionbantegize16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Tsion's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsionbantegize16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsionbantegize16&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
