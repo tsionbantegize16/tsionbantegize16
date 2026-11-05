@@ -6,7 +6,8 @@
 </p>
 
 ---
-##  About Me
+
+## 💻 About Me
 
 > *Holding a B.Sc. in Software Engineering from Bahir Dar University, I specialize in engineering robust web platforms and cross-platform mobile apps. I focus on translating complex business logic into seamless digital experiences with clean architecture and high scalability.*
 
@@ -16,7 +17,26 @@
 
 ---
 
-##  Tech Stack & Ecosystem
+## 🚀 Key Projects & Professional Highlights
+
+### 🏢 BDA ERP
+- Engineered comprehensive enterprise modules covering user management, work orders, customers, and contracts.
+- Handled backend business logic, database integration, and seamless frontend alignment to optimize corporate workflows.
+
+### 🏢 GATO ERP
+- Developed scalable enterprise resource planning features focused on finance tracking, inventory management, and sales pipelines.
+- Integrated backend architecture with responsive user interfaces to deliver reliable, high-performance business solutions.
+
+### 🌐 Web Platforms (React & Supabase)
+- Built production-ready web applications and feature-rich administrative dashboards using **React** and **Supabase**.
+- Implemented robust authentication, real-time database subscriptions, and SEO-optimized web implementations for multiple client organizations.
+
+### ♻️ GreenLoop
+- Developed a sustainable mobile recycling platform combining Flutter and Clean Architecture with AI-assisted object categorization.
+
+---
+
+## 🛠️ Tech Stack & Ecosystem
 
 <br>
 
@@ -27,7 +47,7 @@
 | **Frontend & UI** | <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,tailwind,figma" /> |
 | **Mobile & Cross-Platform** | <img src="https://skillicons.dev/icons?i=flutter" /> |
 | **Backend & APIs** | <img src="https://skillicons.dev/icons?i=nodejs,express,spring,ts,js" /> |
-| **Database & DevOps** | <img src="https://skillicons.dev/icons?i=postgres,prisma,docker,git,github,postman,vscode" /> |
+| **Database & DevOps** | <img src="https://skillicons.dev/icons?i=postgres,supabase,prisma,docker,git,github,postman,vscode" /> |
 
 </div>
 <br>
