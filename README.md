@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Tsion Bantegize 👋</h1>
+<h1 align="center"> I'm Tsion Bantegize 👋</h1>
 <h3 align="center">Software Engineer | Full-Stack Web & Mobile Developer</h3>
 
 <p align="center">
@@ -34,8 +34,6 @@
 <br>
 
 ---
-
-##  Let's Connect
 
 <p align="center">
   <a href="mailto:tsionbantegize@gmail.com">
