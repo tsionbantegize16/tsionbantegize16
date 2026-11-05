@@ -69,12 +69,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/tsionbantegize16">
-    <img src="https://img.shields.io/badge/GitHub%20Stats-tsionbantegize16-2ea44f?style=for-the-badge&logo=github" alt="Tsion's GitHub Stats" />
-  </a>
-  <a href="https://github.com/tsionbantegize16">
-    <img src="https://img.shields.io/badge/Top%20Languages-tsionbantegize16-blue?style=for-the-badge&logo=github" alt="Tsion's Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=tsionbantegize16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Tsion's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsionbantegize16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsionbantegize16&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
