@@ -30,7 +30,6 @@
 | **Database & DevOps** | <img src="https://skillicons.dev/icons?i=postgres,prisma,docker,git,github,postman,vscode" /> |
 
 </div>
-
 <br>
 
 ---
