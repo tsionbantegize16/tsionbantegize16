@@ -67,15 +67,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsionbantegize16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Tsion's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsionbantegize16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsionbantegize16&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
 ---
 
 <div align="center">
