@@ -20,7 +20,7 @@
 </p>
 
 
-## 🌍 Let's Connect  
+ 
 
 <p align="center">
   <a href="mailto:tsionbantegize@gmail.com">
