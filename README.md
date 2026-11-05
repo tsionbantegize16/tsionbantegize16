@@ -2,22 +2,21 @@
 <h3 align="center">Software Engineer | Full-Stack Web & Mobile Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Vue.js+%7C+Nuxt+3+%7C+React+%7C+Flutter+%7C+Spring+Boot;Building+Scalable+Web+%26+Mobile+Apps;Passionate+About+Fintech+%26+Offline-First+Solutions">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Vue.js+%7C+Nuxt+3+%7C+React+%7C+Flutter+%7C+Spring+Boot;Building+Scalable+Web+%26+Mobile+Apps;Passionate+About+Fintech+%26+Offline-First+Solutions">
 </p>
 
 ---
-
-## 🔭 About Me
+##  About Me
 
 > *Holding a B.Sc. in Software Engineering from Bahir Dar University, I specialize in engineering robust web platforms and cross-platform mobile apps. I focus on translating complex business logic into seamless digital experiences with clean architecture and high scalability.*
 
-- 💼 **Current Focus:** Crafting high-performance full-stack web and mobile applications.
-- ⚡ **Engineering Philosophy:** Writing clean, maintainable code with a heavy emphasis on UX, reliability, and backend performance.
-- 🌍 **Special Interest:** Developing inclusive, offline-first digital solutions and alternative access channels (USSD/IVR) for low-connectivity environments.
+- **Current Focus:** Crafting high-performance full-stack web and mobile applications.
+- **Engineering Philosophy:** Writing clean, maintainable code with a heavy emphasis on UX, reliability, and backend performance.
+- **Special Interest:** Developing inclusive, offline-first digital solutions and alternative access channels (USSD/IVR) for low-connectivity environments.
 
 ---
 
-## 🛠️ Tech Stack & Ecosystem
+##  Tech Stack & Ecosystem
 
 <br>
 
@@ -36,16 +35,7 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TsionBantegize&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=3b82f6&icon_color=3b82f6" alt="Tsion's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsionBantegize&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=3b82f6" alt="Top Languages" />
-</p>
-
----
-
-## 📬 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="mailto:tsionbantegize@gmail.com">
