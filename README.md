@@ -1,4 +1,4 @@
-<h1 align="center">I'm Tsion Bantegize </h1>
+<h1 align="center">Hi there, I'm Tsion Bantegize 👋</h1>
 <h3 align="center">Software Engineer | Full-Stack Web & Mobile Developer</h3>
 
 <p align="center">
@@ -7,32 +7,45 @@
 
 ---
 
-##  About Me
+## 🔭 About Me
 
-- **Background:** Holding a B.Sc. in Software Engineering from Bahir Dar University, with a strong foundation in computer science principles, system design, and software architecture.
-- **Expertise:** Specifying in full-stack web development and cross-platform mobile application engineering, translating complex business logic into seamless, high-performance digital experiences.
-- **Philosophy:** Writing clean, maintainable, and robust code with a heavy emphasis on scalability, user experience, and robust backend integrations.
+> *Holding a B.Sc. in Software Engineering from Bahir Dar University, I specialize in engineering robust web platforms and cross-platform mobile apps. I focus on translating complex business logic into seamless digital experiences with clean architecture and high scalability.*
 
----
-
-##  Core Focus & Specializations
-
-- **Full-Stack Architecture:** Designing and implementing end-to-end web systems using modern frameworks like React, Next.js, Vue.js, and Nuxt 3 on the frontend, paired with Node.js, Express.js, and Spring Boot on the backend.
-- **Mobile Development:** Building cross-platform mobile solutions utilizing Flutter to deliver native-quality performance across iOS and Android devices.
-- **Data & Infrastructure:** Managing relational databases with PostgreSQL and Prisma, containerizing services with Docker, and orchestrating efficient version control workflows via Git and GitHub.
-- **Offline-First & Inclusive Tech:** Developing resilient digital solutions, including specialized architectures incorporating USSD and Interactive Voice Response (IVR) pathways for low-connectivity environments and rural accessibility.
+- 💼 **Current Focus:** Crafting high-performance full-stack web and mobile applications.
+- ⚡ **Engineering Philosophy:** Writing clean, maintainable code with a heavy emphasis on UX, reliability, and backend performance.
+- 🌍 **Special Interest:** Developing inclusive, offline-first digital solutions and alternative access channels (USSD/IVR) for low-connectivity environments.
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack & Ecosystem
+
+<br>
+
+<div align="center">
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend & UI** | <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,tailwind,figma" /> |
+| **Mobile & Cross-Platform** | <img src="https://skillicons.dev/icons?i=flutter" /> |
+| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=nodejs,express,spring,ts,js" /> |
+| **Database & DevOps** | <img src="https://skillicons.dev/icons?i=postgres,prisma,docker,git,github,postman,vscode" /> |
+
+</div>
+
+<br>
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,flutter,ts,js,nodejs,express,spring,postgres,prisma,docker,tailwind,figma,git,github,postman,vscode" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TsionBantegize&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=3b82f6&icon_color=3b82f6" alt="Tsion's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsionBantegize&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=3b82f6" alt="Top Languages" />
 </p>
 
 ---
 
-##  Let's Connect
+## 📬 Let's Connect
 
 <p align="center">
   <a href="mailto:tsionbantegize@gmail.com">
