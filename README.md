@@ -66,7 +66,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tsionbantegize16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="Tsion's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsionbantegize16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top Languages" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsionbantegize16&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
