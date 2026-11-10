@@ -10,7 +10,7 @@
 
 ---
 
-## 🧭 About Me
+## About Me
 
 > **Holding a B.Sc. in Software Engineering from Bahir Dar University, I specialize in engineering robust web platforms and cross-platform mobile apps. I focus on translating complex business logic into seamless digital experiences with clean architecture and high scalability.**
 
