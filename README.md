@@ -66,10 +66,18 @@
 
 ---
 
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsionbantegize16&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+  <img
+    src="https://streak-stats.demolab.com?user=tsionbantegize16&theme=tokyonight&hide_border=true&background=0D1117"
+    alt="GitHub Streak Stats"
+  />
+
 </div>
 
 ---
@@ -77,16 +85,23 @@
 <div align="center">
 
   <a href="mailto:tsionbantegize@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
   <a href="https://github.com/tsionbantegize16">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+
   <a href="https://www.linkedin.com/in/tsion-bantegize-007780285">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <br><br>
-  <p><em>⚡ "Always learning, always building." Let's create something amazing together!</em></p>
+
+  <p>
+    <em>⚡ "Always learning, always building." Let's create something amazing together!</em>
+  </p>
 
 </div>
+
+---
